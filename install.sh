@@ -1,3 +1,3 @@
 #!/bin/bash
-sudo cp -R ./WindozeXP /usr/share/plymouth/themes/
-sudo plymouth-set-default-theme -R WindozeXP
+sudo cp -R ./plymouth-kurtlarvadisi /usr/share/plymouth/themes/
+sudo plymouth-set-default-theme -R plymouth-kurtlarvadisi

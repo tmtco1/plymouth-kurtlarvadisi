@@ -1,0 +1,10 @@
+[Plymouth Theme]
+Name=Kurtlar Vadisi
+Description=plymouth
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/plymouth-kurtlarvadisi
+ScriptFile=/usr/share/plymouth/themes/plymouth-kurtlarvadisi/plymouth-kurtlarvadisi.script
+
+
