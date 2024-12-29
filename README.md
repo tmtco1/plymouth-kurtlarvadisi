@@ -1,4 +1,4 @@
-# WindozeXP 1080 Plymouth theme
+# Kurtlar Vadisi Plymouth theme
 
 ## Disclaimer
 
